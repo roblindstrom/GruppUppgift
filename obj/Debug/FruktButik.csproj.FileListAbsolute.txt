@@ -1,0 +1,7 @@
+C:\Users\Robin\source\repos\FruktButik\FruktButik\bin\Debug\FruktButik.exe.config
+C:\Users\Robin\source\repos\FruktButik\FruktButik\bin\Debug\FruktButik.exe
+C:\Users\Robin\source\repos\FruktButik\FruktButik\bin\Debug\FruktButik.pdb
+C:\Users\Robin\source\repos\FruktButik\FruktButik\obj\Debug\FruktButik.csprojAssemblyReference.cache
+C:\Users\Robin\source\repos\FruktButik\FruktButik\obj\Debug\FruktButik.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\FruktButik\FruktButik\obj\Debug\FruktButik.exe
+C:\Users\Robin\source\repos\FruktButik\FruktButik\obj\Debug\FruktButik.pdb
